@@ -45,7 +45,7 @@
     - [同步组件](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483773&idx=1&sn=53c49298fae09a9e8bc089bf2cc0f046&chksm=9ffc631ba88bea0de0e26906c1bfb2e7234aafb8044a8d3d798c01457be77a57d57c0858c2cb&token=1776113537&lang=zh_CN#rd)
     - [线程池](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483763&idx=1&sn=73501f177d4882a23401e614b7a06b5d&chksm=9ffc6315a88bea030635a6fc138fe4d41b10a2801c04f7eefdbe642b0317d5a9de98e627edef&token=1776113537&lang=zh_CN#rd)
     - 并发容器
-    - ThreadLocal
+    - [ThreadLocal](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483891&idx=1&sn=7a6f3790a5fccd9cd378141215941a18&chksm=9ffc6395a88bea831a9b7c03fa50abefba84574f16f2c7c7186ce1e8097bf8f199847d041943&token=1533871073&lang=zh_CN#rd)
 - MySQL
     - [索引](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483844&idx=1&sn=d49ea52feb5efefc6f62fdb27bb2bc39&chksm=9ffc63a2a88beab497fc893b09657dd76bfe8135275cd01bca1e9ca5589c3b99de5f28a9f2ba&token=1776113537&lang=zh_CN#rd)
     - [锁](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483775&idx=1&sn=a9f52d630f191aa1afcf71e38e595800&chksm=9ffc6319a88bea0f8c37b39d1b9aeabb03b7f403e832729c4172115d30db91325bcf3ce57535&token=1776113537&lang=zh_CN#rd)
