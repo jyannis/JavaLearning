@@ -71,7 +71,7 @@
 - 算法
 - IO
     - 一文读懂BIO，NIO与AIO
-- [各种面经与面试故事](# 面经与面试故事)
+- [各种面经与面试故事](#面经与面试故事)
 - 面试技巧
     - [如何进行知识积累](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#如何进行知识积累)
       - [如何把握实践与理论的天平](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#如何把握实践与理论的天平)
