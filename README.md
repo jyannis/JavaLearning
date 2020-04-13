@@ -73,9 +73,25 @@
     - 一文读懂BIO，NIO与AIO
 - [各种面经与面试故事](# 面经与面试故事)
 - 面试技巧
-    - 如何介绍自己
-    - 怎样在面试中“埋坑”
-    - 面试官：你有什么想要问我的吗？
+    - [如何进行知识积累](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#如何进行知识积累)
+      - [如何把握实践与理论的天平](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#如何把握实践与理论的天平)
+      - [我应该如何整理笔记](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#我应该如何整理笔记)
+      - [怎么复习才不会忘](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#怎么复习才不会忘)
+    - [面试前](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#面试前)
+      - [怎么写出让人眼前一亮的简历](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#怎么写出让人眼前一亮的简历)
+      - [如何突击面试](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#如何突击面试)
+      - [面试前焦虑该怎么办](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#面试前焦虑该怎么办)
+    - [面试开始](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#面试开始)
+      - [自我介绍到底要怎么说](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#自我介绍到底要怎么说)
+    - [面试中](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#面试中)
+      - [技术面试的时候应该注意些什么](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#技术面试的时候应该注意些什么)
+      - [面试尬场怎么办](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#面试尬场怎么办)
+      - [如何学会埋坑](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#如何学会埋坑)
+    - [面试结束](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#面试结束)
+      - [面试官：“你有什么想问我的吗”，该说什么？](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#面试官："你有什么想问我的吗"，该说什么？)
+      - [我怎样才能知道我是否通过了](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#我怎样才能知道我是否通过了)
+- 技术人生
+    - [今天我收到了蚂蚁金服实习offer](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md)
 
 
 
