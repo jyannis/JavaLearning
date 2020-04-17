@@ -55,9 +55,11 @@
     - 文件
     - 查询处理流程
 - Redis
-    - [持久化策略](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483772&idx=1&sn=dca7bb69f1df5ef9228fc04266f682a3&chksm=9ffc631aa88bea0c1ea7dbfd1df370aae0b04ca7799fb1d640e912a64cd321c6ff9c5f94627d&token=1776113537&lang=zh_CN#rd)
-    - 数据结构
-    - 常见缓存问题及其解决
+    - [概述](https://github.com/jyannis/JavaLearning/blob/master/docs/redis/概述.md)
+    - [数据结构](https://github.com/jyannis/JavaLearning/blob/master/docs/redis/数据结构.md)
+    - [持久化](https://github.com/jyannis/JavaLearning/blob/master/docs/redis/持久化.md)
+    - [常见缓存问题及其解决](https://github.com/jyannis/JavaLearning/blob/master/docs/redis/常见缓存问题及其解决.md)
+    - [常用命令](https://github.com/jyannis/JavaLearning/blob/master/docs/redis/常用命令.md)
 - Spring
     - IOC
     - AOP
