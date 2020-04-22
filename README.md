@@ -72,7 +72,7 @@
     - [策略Strategy](https://github.com/jyannis/design-patterns/tree/master/Strategy)
 - 算法
 - IO
-    - 一文读懂BIO，NIO与AIO
+    - [一文读懂BIO、NIO、AIO](https://github.com/jyannis/JavaLearning/blob/master/docs/IO/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82BIO%E3%80%81NIO%E3%80%81AIO.md)
 - [各种面经与面试故事](#面经与面试故事)
 - 面试技巧
     - [如何进行知识积累](https://github.com/jyannis/JavaLearning/blob/master/docs/tech-life/今天我收到了蚂蚁金服实习offer.md#如何进行知识积累)
