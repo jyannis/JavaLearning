@@ -172,7 +172,7 @@
 
 微信：
 
-<img src="https://raw.githubusercontent.com/jyannis/Java-Ferrari/master/docs/%E5%BE%AE%E4%BF%A1.png" alt="微信" style="zoom: 50%;" />
+<img src="https://gitee.com/jyannis/JavaLearning/raw/master/docs/%E5%BE%AE%E4%BF%A1.png" alt="微信" style="zoom: 50%;" />
 
 
 
@@ -180,7 +180,7 @@
 
 扣扣：
 
-<img src="https://raw.githubusercontent.com/jyannis/Java-Ferrari/master/docs/qrcode_1586150172794.jpg" alt="qq" style="zoom:50%;" />
+<img src="https://gitee.com/jyannis/JavaLearning/raw/master/docs/qrcode_1586150172794.jpg" alt="qq" style="zoom:50%;" />
 
 
 
@@ -192,5 +192,5 @@
 
 你的每一次点击和在看都是对我最大的支持！
 
-![Jyannis](https://raw.githubusercontent.com/jyannis/Java-Ferrari/master/docs/Jyannis.jpg)
+![Jyannis](https://gitee.com/jyannis/JavaLearning/raw/master/docs/Jyannis.jpg)
 
