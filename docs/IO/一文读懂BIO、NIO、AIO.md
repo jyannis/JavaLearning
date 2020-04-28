@@ -42,7 +42,7 @@
 
  不过可以通过多线程来支持多个客户端的连接，如下图所示。
 
-![BIO基本原理](https://raw.githubusercontent.com/jyannis/JavaLearning/master/docs/IO/docs/BIO%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.png)
+![BIO基本原理](https://gitee.com/jyannis/JavaLearning/raw/master/docs/IO/docs/BIO%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.png)
 
 如果要让 **BIO 通信模型** 能够同时处理多个请求，就必须使用多线程，也就是在接收到连接请求后为每个请求创建一个新的线程进行处理。
 
@@ -159,7 +159,7 @@ Selector用于采集各个Channel的状态（或者说事件）。
 - Read：有数据可读
 - Write：可以写入数据
 
-![Selector](https://raw.githubusercontent.com/jyannis/JavaLearning/master/docs/IO/docs/Selector.png)
+![Selector](https://gitee.com/jyannis/JavaLearning/raw/master/docs/IO/docs/Selector.png)
 
 <br/>
 
