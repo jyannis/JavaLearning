@@ -311,13 +311,13 @@
 
 给一个优秀的范例：
 
-![简历-项目经历-范例1](https://raw.githubusercontent.com/jyannis/JavaLearning/master/docs/tech-life/200412-简历-项目经历-范例1.png)
+![简历-项目经历-范例1](https://gitee.com/jyannis/JavaLearning/raw/master/docs/tech-life/200412-简历-项目经历-范例1.png)
 
 
 
 如果觉得这个有点太高大上了，再看一个普通一点的：
 
-![简历-项目经历-范例2](https://raw.githubusercontent.com/jyannis/JavaLearning/master/docs/tech-life/200412-简历-项目经历-范例2.png)
+![简历-项目经历-范例2](https://gitee.com/jyannis/JavaLearning/raw/master/docs/tech-life/200412-简历-项目经历-范例2.png)
 
 <br/>
 
@@ -340,7 +340,7 @@
 
 我们可以根据岗位的要求，结合我们自身的优势，来写我们的专业技能。像这样：
 
-![简历-专业技能](https://raw.githubusercontent.com/jyannis/JavaLearning/master/docs/tech-life/200412-简历-专业技能.png)
+![简历-专业技能](https://gitee.com/jyannis/JavaLearning/raw/master/docs/tech-life/200412-简历-专业技能.png)
 
 <br/>
 
