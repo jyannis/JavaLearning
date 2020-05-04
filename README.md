@@ -36,7 +36,7 @@
     - [类加载机制](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483777&idx=1&sn=f330cb56e1bf6e0863792c6160299416&chksm=9ffc63e7a88beaf16eeb8a05a6081dfa0baf2306779d2761c480e65262eee776bb2f8c88de9d&token=1776113537&lang=zh_CN#rd)
     - [调优命令行工具](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483719&idx=1&sn=fc747d2e5b9b1928f312f1cb9a643f3b&chksm=9ffc6321a88bea37aacff8850cd60b9b4e7b1540850daf97dfe853d1d1a3b07d30fe6d3ed250&token=1776113537&lang=zh_CN#rd)
     - [Volatile关键字](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5OTA0OQ==&mid=2247483765&idx=1&sn=cf0c1b74985e2389719d6ae1f51f4258&chksm=9ffc6313a88bea05f7c77c45247a5a1ce251b77b13c71c0068a4b30cc2effee2e80e21e59988&token=1776113537&lang=zh_CN#rd)
-    - JMM
+    - [JMM](https://github.com/jyannis/JavaLearning/blob/master/docs/JVM/JMM%20Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
     - [JVM问题排查实战](#JVM问题排查实战)
 - 并发
     - Java与线程的基础知识
