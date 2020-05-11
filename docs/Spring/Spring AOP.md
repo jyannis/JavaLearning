@@ -174,11 +174,7 @@ https://blog.csdn.net/yhl_jxy/article/details/80633194
 
 #### CGlib比JDK快？
 
-- 使用CGLib实现动态代理，CGLib底层采用ASM字节码生成框架，使用字节码技术生成代理类，
-
-在jdk6之前比使用Java反射效率要高。唯一需要注意的是，CGLib不能对声明为final的方法进行代
-
-理，因为CGLib原理是动态生成被代理类的子类。
+- 使用CGLib实现动态代理，CGLib底层采用ASM字节码生成框架，使用字节码技术生成代理类，在jdk6之前比使用Java反射效率要高。唯一需要注意的是，CGLib不能对声明为final的方法进行代理，因为CGLib原理是动态生成被代理类的子类。
 
 - 在jdk6、jdk7、jdk8逐步对JDK动态代理优化之后，在调用次数较少的情况下，JDK代理效率高于CGLIB代理效率，只有当进行大量调用的时候，jdk6和jdk7比CGLIB代理效率低一点，但是到jdk8的时候，jdk代理效率高于CGLIB代理，总之，每一次jdk版本升级，jdk代理效率都得到提升，而CGLIB代理消息确有点跟不上步伐。
 
@@ -186,8 +182,8 @@ https://blog.csdn.net/yhl_jxy/article/details/80633194
 
 #### Spring如何选择用JDK还是CGLIB？
 
-1）当Bean实现接口时，Spring就会用JDK的动态代理。
+- 当Bean实现接口时，Spring就会用JDK的动态代理。
 
-2）当Bean没有实现接口时，Spring使用CGlib实现。
+- 当Bean没有实现接口时，Spring使用CGlib实现。
 
-3）可以强制使用CGlib（在spring配置中加入<aop:aspectj-autoproxy proxy-target-class="true"/>）。
+- 可以强制使用CGlib（在spring配置中加入<aop:aspectj-autoproxy proxy-target-class="true"/>）。
